@@ -2,7 +2,9 @@
 
 Disease Predictor is a web app mainly for prediction of Heart Disease, Diabetes prediction and Breast Cancer prediction trained using machine learning with kaggle datasets. And it also include BMI calculator for regular health status checkup.
 
-![picture](https://github.com/hmansoori002/Disease_Predictor_N_bmicheck/tree/master/images/one.png)
+## Home Page
+![onew](https://user-images.githubusercontent.com/59415075/88853761-d64d0100-d20d-11ea-864c-6cd2f64ae2f0.png)
+
 
 ## Run the Application
 
